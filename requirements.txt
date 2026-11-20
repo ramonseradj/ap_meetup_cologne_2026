@@ -1,0 +1,13 @@
+cryptography
+pandas
+pandas-gbq
+db-dtypes
+google-api-core
+google-auth
+google-auth-oauthlib
+google-cloud-core
+ollama
+requests
+ipython
+ipykernel
+jupyterlab
